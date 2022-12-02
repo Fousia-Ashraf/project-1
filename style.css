@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+.parent {
+    width: 80%;
+    height: 800px;
+    background-color: white;
+    border-radius: 0px;
+    position: relative;
+    padding: 3px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: larger;
+
+}
+
+img {
+    margin-left: 0px;
+    width: 71%;
+    height: 180px;
+    border-radius: 00px;
+    margin-top: 0px;
+    
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+
+
+h2 {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+
+}
+
+p {
+    text-align: justify;
+}
+
+.child {
+    /* background-; */
+    position: absolute;
+    margin-top: 0px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: xx-large;
+    height: 160px;
+    background-image: url("https://www.bestfoods.com/content/dam/unilever/hellmann_s_world/global/digital_and_online/wrap_lp-63808006-jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0px;
+    font-family: 'Caveat', cursive;
+
+}
+
+.child:hover {
+    opacity: 0.8;
+}
+.heading{
+    display: inline-flex;
+    font-family: 'Caveat', cursive;
+
+}
+.headi{
+    font-size: 1.5em;
+}
+.headi,
+.headt{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    height: 70px;
+
+}
+
+.butto{
+    width: 50px;
+    margin-top: -20px;
+    margin-left: 800px;
+    display:flex;
+    align-items: center;
+    height: 50px;
+    padding: 20px;
+    background-color: rgb(241, 181, 15);
+    border: white 0px solid;
+    
+    cursor: pointer;
+    border-radius: 11PX;
+}
+Button{
+    
+width: 100px;
+    height: 50px;
+    background-color: rgb(241, 181, 15);
+    color: white;
+    border-radius: 40px;
+}
+button:hover{
+    background-color: white;
+    color: rgb(241, 181, 15) ;}
+.col {
+    width: 300px;
+    height: 292px;
+    border: black 0px solid;
+    border-radius: -10px;
+}
+
+.b1{
+    margin-top: -70px;
+}
+.b2{
+    margin-top: 30px;
+}
+.b3{
+    margin-top: 10px;
+}
+.b4{
+    margin-top: 0px;
+}
+.b5{
+    margin-top: 20px;
+}
+.b6{
+    margin-top: 0px;
+}
+.a {
+    height: 460px;
+    margin-top: 102px;
+    margin-left: 50PX;
+padding: 10px;
+}
+
+.b {height: 432px;
+    margin-top: -560px;
+    margin-left: 50PX;
+    padding: 10px;
+}
